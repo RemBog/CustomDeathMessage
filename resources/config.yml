@@ -1,1 +1,14 @@
+#CustomDeathMessage par RemBog
 
+
+#{killer} ou {tueur} : nom de la personne qui a tué le joueur
+#{dead} ou {mort} : nom du joueur tué
+#{heal-killer} : nombre de vie restante du tueur
+#{line} : passer à la ligne
+
+
+#Message quand un joueur s'est fait tuer par un autre joueur
+death-message: "§4{killer} §ca tué §4{dead} §6[{heal-killer}]"
+
+
+#Si vous avez une suggestion pour le plugin : RemedialBog88#6549
